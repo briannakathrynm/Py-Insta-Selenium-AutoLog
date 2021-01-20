@@ -5,8 +5,8 @@ from AutoLog import scrape
 
 # Creating Instances
 driver = 0
-username = 'kathy_mac98'  # Username of account
-password = 'Froggy978!'  # Password of account
+username = ''  # Username of account
+password = ''  # Password of account
 backup_code = None  # Backup Code of account if 2Fact
 post_count = 2
 
