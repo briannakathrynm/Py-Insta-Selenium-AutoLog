@@ -2,8 +2,8 @@ from selenium import webdriver
 import insights
 
 # Creating Instances
-username = 'kathy_mac98'  # Username of account
-password = 'Froggy978!'  # Password of account
+username = ''  # Username of account
+password = ''  # Password of account
 
 
 def main():
